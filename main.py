@@ -39,19 +39,3 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-
-#cv2.imwrite('laranja.jpg',frame)   
-#img  = cv2.fastNlMeansDenoisingColored(frame,None,10,10,7,21)
-
-#a = cv2.fastNlMeansDenoisingColored(frame)
-
-#img  = cv2.fastNlMeansDenoisingColored(frame,None,4,50,10,10)
-#sobelx8u = cv2.Sobel(img,cv2.CV_8U,2,0,ksize=3)
-#Image.fromarray(sobelx8u, 'RGB')
-#img = Image.fromarray(img, 'RGB')
-#texto, tempo = convert.img_to_text(sobelx8u)
-
-
-#biblioteca nacional de teses e dissertacoes#
-#science direct
-#math video image processing detected
